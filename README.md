@@ -1,2 +1,4 @@
-# PROYECTO DE LOS PAPUS PRIMES
-El mejor proyecto de la historia amigos...
+# PROYECTO DEL GRUPO DE TRABAJO LOS PAPUS PRIMES
+El software a desarrollar es un sistema de gestión de cine que permitirá automatizar y optimizar las operaciones diarias de un cine. Este sistema incluirá funcionalidades como la venta de entradas en línea, la asignación de asientos, la gestión de horarios de películas en diferentes sedes, el control de acceso a las salas, y la generación de reportes financieros y de asistencia. El objetivo principal es mejorar la experiencia del usuario y facilitar la gestión interna del cine.
+
+Además de la venta de boletos, el software incluirá un módulo especializado para la venta de alimentos y bebidas, permitiendo a los clientes realizar sus pedidos de manera rápida y eficiente. Este sistema no solo optimiza la gestión de pedidos y pagos, sino que también mejora la experiencia del cliente al reducir tiempos de espera y ofrecer opciones personalizadas según sus preferencias. Al integrar estas dos áreas clave, el software busca ofrecer una solución completa que simplifique las operaciones y maximice la satisfacción del usuario.
